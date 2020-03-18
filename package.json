@@ -1,0 +1,23 @@
+{
+  "name": "calculadora-react",
+  "version": "1.0.0",
+  "description": "Calculadora criada com React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobisonAleixo/Calculadora-React.git"
+  },
+  "keywords": [
+    "Calculadora",
+    "React"
+  ],
+  "author": "Robison Aleixo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobisonAleixo/Calculadora-React/issues"
+  },
+  "homepage": "https://github.com/RobisonAleixo/Calculadora-React#readme"
+}
